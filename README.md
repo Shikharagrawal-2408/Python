@@ -7,6 +7,7 @@ This repository is a well-organized collection of **Python programs, notes, and 
 ## 📂 Folder Structure
 
 Python/
+
 ├── README.md ← Overview of the repo
 
 ├── Notes/ ← Markdown notes for core topics
@@ -18,12 +19,14 @@ Python/
 │ ├── OOPs_in_Python.md
 
 │ └── File_Handling.md
+
 │
 ├── Code/ ← Python code examples by topic
 
 │ ├── Basics/
 
 │ │ └── hello_world.py
+
 │ │
 │ ├── ControlFlow/
 
@@ -32,40 +35,53 @@ Python/
 │ │ ├── loops.py
 
 │ │ └── match_case.py
+
 │ │
 │ ├── Functions/
 
 │ │ ├── def_function.py
 
 │ │ └── recursion.py
+
 │ │
 │ ├── OOPs/
+
 
 │ │ ├── class_example.py
 
 │ │ └── inheritance.py
+
 │ │
 │ ├── Modules/
+
 
 │ │ ├── math_module.py
 
 │ │ └── datetime_module.py
+
 │ │
 │ ├── FileHandling/
 
+
 │ │ └── read_write_file.py
+
 │ │
 │ └── Libraries/
+
 
 │ ├── numpy_intro.py
 
 │ └── pandas_basics.py
+
 │
 ├── Practice/ ← (Optional, ignored using .gitignore)
 
+
 │ └── temp_code.py
+
 │
 ├── Templates/ ← Reusable starter code/snippets
+
 
 │ └── fast_io_template.py
 │
